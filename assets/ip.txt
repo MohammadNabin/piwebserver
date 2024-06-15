@@ -1,0 +1,6 @@
+Local:
+piserver
+192.169.69.101
+Public:
+join-feof.gl.at.ply.gg:24806
+147.185.221.20:24806
